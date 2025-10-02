@@ -1,0 +1,7 @@
+# Dir
+.ipynb_checkpoints/
+.venv/
+.virtual_documents/
+data/
+plots/
+res/
